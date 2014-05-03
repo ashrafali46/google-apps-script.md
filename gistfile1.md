@@ -1,6 +1,6 @@
 Online resources for learning Google Apps Script.
 
-1. [developers.google.com/apps-script/case-studies] 
+1. (developers.google.com/apps-script/case-studies) 
 2. ctrlq.org/dev/google-apps-script - by +Amit Agarwal 
 3. scoop.it/t/gas - by +Martin Hawksey  
 4. www.labnol.org/internet/google-scripts/28281/ - by +Amit Agarwal 
